@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container-title {
+    margin-bottom: 0.3rem;
+}
+.container {
+    background: #DDDDDD;
+}
+
+.container__skills {
+    text-align: right;
+    padding: 0.5rem;
+    padding-right: 1rem;
+    margin: 0;
+    color: white;
+}
+
+.container__html {
+    width: 90%;
+    background: #39AA6D;
+}
+
+.container__css {
+    width: 80%;
+    background: #4C97F3;
+}
+
+.container__js {
+    width: 65%;
+    background: #F04337;
+}
+
+.container__php {
+    width: 60%;
+    background: #808080;
+}
